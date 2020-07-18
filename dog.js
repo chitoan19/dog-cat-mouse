@@ -6,4 +6,3 @@ dog.prototype.eat(cat){
 	this.stomach.push(cat);
 };
 
-module.exports(dog);
