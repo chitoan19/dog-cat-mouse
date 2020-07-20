@@ -1,8 +1,8 @@
-function Cat(){
+function cat(){
 	this.stomach = [];
 }
 //test
-Cat.prototype.eat = function(mouse) {
+cat.prototype.eat = function(mouse) {
 	this.stomach.push(mouse);
 };
 
